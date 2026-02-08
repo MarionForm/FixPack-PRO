@@ -18,6 +18,8 @@ Ejecuta:
 ```bash
 python fixpack_pro.py
 
+Seguridad
+Incluye DRY-RUN para probar sin aplicar cambios y evitar “toquetear” sistemas en producción.
 #En Windows también puedes usar el launcher:
 fixpack.bat (doble click)
 Para acciones avanzadas en Windows (SFC/DISM/Reset red), ejecutar como Administrador.
